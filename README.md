@@ -38,7 +38,7 @@ go install github.com/channyein1337/jsleak@latest
 
 ### Usage
 
-Choose a YAML file from the secrets-patterns-db. If you’re not sure which one to pick, consider using: [https://raw.githubusercontent.com/mazen160/secrets-patterns-db/refs/heads/master/datasets/trufflehog-v3.yaml](https://raw.githubusercontent.com/mazen160/secrets-patterns-db/refs/heads/master/datasets/trufflehog-v3.yaml)
+Choose a YAML file from the secrets-patterns-db. If you’re not sure which one to pick, consider using: [https://raw.githubusercontent.com/mazen160/secrets-patterns-db/refs/heads/master/datasets/trufflehog-v3.yaml](https://raw.githubusercontent.com/mazen160/secrets-patterns-db/refs/heads/master/datasets/trufflehog-v3.yml)
 
 Run jsleak with Your Selected Regex File
 ```
